@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [github.com/mmaarij](github.com/mmaarij)
 
-- 📫 How to reach me: **l192347@lhr.nu.edu.pk**
+- 📫 How to reach me: **mmaarijn@gmail.com**
 
 - ⚡ Fun fact: **I have the cutest cat named Ella**
 
