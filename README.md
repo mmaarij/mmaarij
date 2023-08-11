@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on: **AI/ML and IoT Projects**
 
-- 👨‍💻 All of my projects are available at: [github.com/mmaarij?tab=repositories](github.com/mmaarij)
+- 👨‍💻 All of my projects are available at: [github.com/mmaarij?tab=repositories](github.com/mmaarij?tab=repositories)
 
 - 📫 How to reach me: **mmaarijn@gmail.com**
 
