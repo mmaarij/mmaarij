@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maarij</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
+---
 
 # 💫 About Me:
 
