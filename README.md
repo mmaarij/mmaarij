@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at: <a href="https://www.github.com/mmaarij?tab=repositories" target="blank">github.com/mmaarij</a>
 
-- ⚡ Fun fact: **I have the cutest cat named :)**
+- ⚡ Fun fact: **I have the cutest cat :)**
 
 # 🌐 Connect with me:
 
