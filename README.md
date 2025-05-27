@@ -10,9 +10,7 @@
 
 - 👨‍💻 All of my projects are available at: <a href="https://www.github.com/mmaarij?tab=repositories" target="blank">github.com/mmaarij</a>
 
-- 📫 How to reach me: **mmaarijn@gmail.com**
-
-- ⚡ Fun fact: **I have the cutest cat named Ella**
+- ⚡ Fun fact: **I have the cutest cat named :)**
 
 # 🌐 Connect with me:
 
