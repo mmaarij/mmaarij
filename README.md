@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://maarij.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6100FF?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7159E8?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
 
