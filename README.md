@@ -20,10 +20,10 @@ I am a backend-focused Software Engineer with experience building enterprise fin
 
 I have worked on a range of production software, from backend services and APIs to frontend applications and system integration. This profile is for the code I write for myself, including academic projects, experiments, and personal tools.
 
-* **Core Focus:** Scalable Backend Architecture, Microservices, and Data-Intensive Applications.
-* **My Background:** Mostly **.NET (C#)** and **TypeScript**.
-* **Current Status:** Studying at **ATU** and preparing a thesis on **growing security threats from the misuse of LLMs**.
-* **Goal:** Writing code that works, is easy to read, and doesn't break production.
+* **Core Focus:** Scalable backend architecture, microservices, and data-intensive applications
+* **My Background:** Primarily experienced in .NET (C#), with additional work in C and TypeScript
+* **Current Status:** Studying at ATU, preparing a thesis on the growing security threats from misuse of LLMs
+* **Goal:** Writing reliable, readable, production-ready code
   
 ---
 
