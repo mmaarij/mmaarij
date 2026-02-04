@@ -16,9 +16,9 @@
 ---
 
 ### About Me
-I am a backend-focused Software Engineer with experience building **enterprise fintech**, **industrial automation**, and **intelligent document processing systems**. I am currently pursuing my **MSc in Computing** at **Atlantic Technological University (ATU)** in Galway, Ireland.
+I am a backend-focused Software Engineer with experience building enterprise fintech, industrial automation, intelligent document processing, and embedded systems. I am currently pursuing my MSc in Computing at Atlantic Technological University (ATU) in Galway, Ireland.
 
-I spent the last few years working in the industry building APIs for fintech and healthcare, but, this profile is for the code I write now: academic projects, experiments, and tools I build for myself.
+I have worked on a range of production software, from backend services and APIs to frontend applications and system integration. This profile is for the code I write for myself, including academic projects, experiments, and personal tools.
 
 * **Core Focus:** Scalable Backend Architecture, Microservices, and Data-Intensive Applications.
 * **My Background:** Mostly **.NET (C#)** and **TypeScript**.
